@@ -1,4 +1,4 @@
-# iosBtBackground
+# iOS Background Bluetooth
 
 Jenom ukázka jak zprovoznit jednoduché připojení ke konkrétnímu zařízení spodporou připojení na pozadí. Nutno dodržet dvě věci, aby to fungovalo:
 - je nutno si držet odkaz na peripheral, ke kterému se aplikace má připojit (jinak hlásí misuse api)

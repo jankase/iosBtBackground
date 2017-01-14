@@ -22,6 +22,7 @@
 		1D7EE8091E290AA900E5C5C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D7EE80C1E290AA900E5C5C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D7EE80E1E290AA900E5C5C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		931AD98D586A61D43763B4FC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 			children = (
 				1D7EE8011E290AA900E5C5C3 /* TestBT */,
 				1D7EE8001E290AA900E5C5C3 /* Products */,
+				931AD98D586A61D43763B4FC /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
